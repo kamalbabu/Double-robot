@@ -1,0 +1,23 @@
+{
+  "name": "double-robot",
+  "version": "1.0.0",
+  "description": "Double robot at Watconsult",
+  "main": "index.js",
+  "dependencies": {
+    "johnny-five": "^0.10.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashdeep97/Double-robot.git"
+  },
+  "author": "Yashdeep Thorat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yashdeep97/Double-robot/issues"
+  },
+  "homepage": "https://github.com/yashdeep97/Double-robot#readme"
+}
